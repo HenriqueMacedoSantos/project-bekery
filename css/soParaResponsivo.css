@@ -1,0 +1,419 @@
+@media screen and (max-width :1280px){
+
+}
+
+@media screen and (max-width :1024px){
+
+    /*largura muito pequena nesse pixel*/
+    .geral{
+        width: 90%;
+        margin: 0 auto;
+        border-radius: 20px;
+        border: 2px solid gray;
+        margin-top: -10%;
+    }
+
+    /*começo imagens historia*/
+    .primeiraIMG{
+      width: 47%;
+      margin-left: 25%;
+      margin-top: 20px;
+    }
+
+    .segundaIMG{
+        width: 47%;
+        margin-left: 2%;
+        margin-top: 20px;
+    }
+
+    .terceiraIMG{
+        width: 47%;
+        margin-left: 52%;
+        margin-top: -500px;
+    }
+
+    .quartaIMG{
+        width: 47%;
+        margin-left: 2%;
+        margin-top: 20px;
+    }
+
+    .quintaIMG{
+        width: 47%;
+        margin-left: 52%;
+        margin-top: -500px;
+    }
+    /*final imagens historia*/
+
+    /* responsivo da historia */
+    .PrimeiraParte{
+      margin-top: 30px;
+      font-size: 14px;
+      color: #FFFFFF;
+      text-align: justify;
+      font-family: cambria;
+      width: 100%;
+      margin-left: 3px;
+    }
+    .SegundaParte{
+      margin-top: 20px;
+      font-size: 14px;
+      color: #FFFFFF;
+      text-align: justify;
+      font-family: cambria;
+      width: 100%;
+      float: right;
+    }
+
+    .divbtnSocial{
+      margin-top: 0%;
+      margin-bottom: 0px;
+    }
+
+    .geralHistoria{
+      margin-top: -190px;
+      border-color: #e77f67;
+      border-radius: 5px;
+      padding-bottom: 35px;
+
+
+    }
+    /* fim do responsivo da historia */
+
+}
+
+@media screen and (max-width :424px){
+    /*detalhe da letra index e historia*/
+    .chamada , h1{
+        font-size: 47px;
+    }
+
+    /* geral index */
+    .geral{
+        width: 86%;
+        margin: 0 auto;
+        border-radius: 20px;
+        border: 2px solid gray;
+        margin-top: -10%;
+    }
+
+    /* contato subir um pouco */
+    .titulo_contato{
+      margin-top: 0px;
+      font-family: arial;
+      font-size: 17px;
+    }
+
+    .divRespomcivo{
+        font-family: arial;
+        margin-top: -94%;
+    }
+
+    .geral12{
+        width: 89%;
+        margin: 0 auto;
+        border: 2px solid none;
+    }
+
+    /* responsivo da historia */
+    .PrimeiraParte{
+      margin-top: 30px;
+      font-size: 14px;
+      color: #ffffff;
+      text-align: justify;
+      font-family: cambria;
+      width: 100%;
+      margin-left: 3px;
+    }
+    .SegundaParte{
+      margin-top: 20px;
+      font-size: 14px;
+      color: #FFFFFF;
+      text-align: justify;
+      font-family: cambria;
+      width: 100%;
+      float: right;
+    }
+
+    .divbtnSocial{
+      margin-top: 0%;
+      margin-bottom: 0px;
+    }
+    /*começo imagens historia*/
+    .primeiraIMG{
+      width: 99%;
+      margin-right: 2px;
+      margin-left: 2px;
+      margin-top: 10px;
+    }
+    .segundaIMG{
+      width: 99%;
+      margin-left: 2px;
+      margin-top: 0px;
+    }
+
+    .terceiraIMG{
+        width: 99%;
+        margin-left: 2px;
+        margin-top: 40px;
+    }
+
+    .quartaIMG{
+        width: 99%;
+        margin-left: 2px;
+        margin-top: 0px;
+    }
+
+    .quintaIMG{
+        width: 99%;
+        margin-left: 2px;
+        margin-top: 0px;
+    }
+    /*final imagens historia*/
+   .geralHistoria{
+      margin-top: -190px;
+      border-color: #e77f67;
+      border-radius: 5px;
+      padding-bottom: 355px;
+      height:2180px;
+    }
+    /* fim do responsivo da historia */
+}
+@media screen and (max-width :414px) {
+  /* ajustes na index */
+  .imagemlogo{
+    line-height: 100px;
+    text-transform: uppercase;
+    background-attachment: fixed center;
+    margin-top: 10px;
+    width: 150px;
+    height: 90px;
+    margin-left: 130px;
+    margin-top: -2px;
+  }
+  .logo{
+    width: 200px;
+    height: 150px;
+  }
+  .geral{
+    width: 100%;
+    margin-top: 10%;
+  }
+
+/* fim dos ajustes da index */
+/* ajustes na histotia */
+.PrimeiraParte{
+  margin-top: 30px;
+  font-size: 14px;
+  color: #FFFFFF;
+  text-align: justify;
+  font-family: cambria;
+  width: 100%;
+  margin-left: 3px;
+}
+.SegundaParte{
+  margin-top: 20px;
+  font-size: 14px;
+  color: #FFFFFF;
+  text-align: justify;
+  font-family: cambria;
+  width: 100%;
+  float: right;
+}
+
+.divbtnSocial{
+  margin-top: 0%;
+  margin-bottom: 0px;
+}
+/*começo imagens historia*/
+    .primeiraIMG{
+      width: 99%;
+      margin-right: 2px;
+      margin-left: 2px;
+      margin-top: 10px;
+    }
+    .segundaIMG{
+      width: 99%;
+      margin-left: 2px;
+      margin-top: 0px;
+    }
+
+    .terceiraIMG{
+        width: 99%;
+        margin-left: 2px;
+        margin-top: 40px;
+    }
+
+    .quartaIMG{
+        width: 99%;
+        margin-left: 2px;
+        margin-top: 0px;
+    }
+
+    .quintaIMG{
+        width: 99%;
+        margin-left: 2px;
+        margin-top: 0px;
+    }
+    /*final imagens historia*/
+.geralHistoria{
+  margin-top: -120px;
+  border-color: #e77f67;
+  border-radius: 5px;
+  padding-bottom: 355px;
+  height:2200px;
+
+}
+/* ffim histotia */
+
+/* contato */
+.chamadaContato{
+    height:290px;
+    text-align:center;
+    width:100%;
+    color:#FE9380;
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: -3px;
+    line-height: 60px;
+    text-shadow: 0.1em 0.1em 0.2em #a9a9a9;
+    margin-top: -10px;
+}
+.geral12{
+    width: 89%;
+    margin: 0 auto;
+    border: 2px solid none;
+}
+.maps{
+    margin-left: 5px;
+    margin-right: 8px;
+    height: 250px;
+    margin-top: 3%;
+    width: 98.6%;
+    border-color: #000000;
+}
+.contato1{
+    margin-right: 5%;
+    margin-left: -3.5%;
+    margin-top: 5%;
+    height: 235px;
+    color: #FFFFFF;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 2px solid #e77f67;
+    width: 100%;
+}
+.divRespomcivo{
+  font-family: arial;
+  margin-top: -70%;
+}
+.titulo_contato{
+  margin: 10px;
+}
+h5{
+  margin-top: -90px;
+}
+/* fim contato */
+}
+@media screen and (max-width :360px) {
+  .imagemlogo{
+    line-height: 100px;
+    text-transform: uppercase;
+    background-attachment: fixed center;
+    margin-top: 10px;
+    width: 150px;
+    height: 90px;
+    margin-left: 100px;
+    margin-top: -2px;
+  }
+  .geralHistoria{
+  margin-top: -120px;
+  border-color: #e77f67;
+  border-radius: 5px;
+  padding-bottom: 355px;
+    height:2200px;
+}
+  .logo{
+    width: 200px;
+    height: 150px;
+  }
+  .geral{
+    width: 100%;
+    margin-top: 10%;
+  }
+  .divbtnSocial{
+  margin-top: 0%;
+  margin-bottom: 0px;
+}
+/*começo imagens historia*/
+    .primeiraIMG{
+      width: 99%;
+      margin-right: 2px;
+      margin-left: 2px;
+      margin-top: 10px;
+    }
+    .segundaIMG{
+      width: 99%;
+      margin-left: 2px;
+      margin-top: 0px;
+    }
+
+    .terceiraIMG{
+        width: 99%;
+        margin-left: 2px;
+        margin-top: 40px;
+    }
+
+    .quartaIMG{
+        width: 99%;
+        margin-left: 2px;
+        margin-top: 0px;
+    }
+
+    .quintaIMG{
+        width: 99%;
+        margin-left: 2px;
+        margin-top: 0px;
+    }
+    /*final imagens historia*/
+
+}
+@media screen and (max-width :320px){
+  .imagemlogo{
+    line-height: 100px;
+    text-transform: uppercase;
+    background-attachment: fixed center;
+    margin-top: 10px;
+    width: 150px;
+    height: 90px;
+    margin-left: 80px;
+    margin-top: -2px;
+  }
+  .logo{
+    width: 200px;
+    height: 150px;
+  }
+  .geral{
+    width: 100%;
+    margin-top: 10%;
+  }
+  .geralHistoria{
+    margin-top: -50px;
+    border-color: #e77f67;
+    border-radius: 5px;
+    padding-bottom: 355px;
+  }
+
+}
+@media screen and (max-width :375px){
+  .imagemlogo{
+    line-height: 100px;
+    text-transform: uppercase;
+    background-attachment: fixed center;
+    margin-top: 10px;
+    width: 150px;
+    height: 90px;
+    margin-left: 110px;
+    margin-top: -2px;
+  }
+}

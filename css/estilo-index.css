@@ -1,0 +1,154 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+body{
+  background-image: url(../img/background2.jpg);
+}
+
+.imagemlogo{
+  line-height: 100px;
+  float: center;
+  text-transform: uppercase;
+  background-attachment: fixed center;
+  margin-top: 10px;
+  width: 200px;
+  height: 125px;
+  margin-left: -20px;
+  margin-top: -2px;
+}
+.logo{
+  width: 200px;
+  height: 150px;
+}
+.divMenu{
+    margin-top: -100px;
+}
+
+.chamada{
+    height:290px;
+    text-align:center;
+    width:100%;
+    -webkit-text-stroke-width: 1.5px; /* largura da borda */
+    -webkit-text-stroke-color: #000000; /* cor da borda */
+    color: #FFFFFF;
+}
+.chamadaContato{
+    height:290px;
+    text-align:center;
+    width:100%;
+    color:#FFFFFF;
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: -3px;
+    line-height: 60px;
+    /* text-shadow: 0.1em 0.1em 0.2em #a9a9a9; */
+    margin-top: -10px;
+}
+h1 span{
+    font-size: 60px;
+    font-weight: 300;
+    letter-spacing: -2px;
+    line-height: 60px;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 800;
+    letter-spacing: -3px;
+    line-height: 60px;
+    /* text-shadow: 0.1em 0.1em 0.2em #a9a9a9; */
+}
+.divGaleria{
+  width: 100%;
+  height: 80%;
+  margin-top: 40px;
+}
+.PrimeiraParte{
+  margin-top: -450px;
+  font-size: 14px;
+  text-align: justify;
+  font-family: cambria;
+  width: 50%;
+  margin-left: 3px;
+}
+.SegundaParte{
+  margin-top: 20px;
+  font-size: 14px;
+  text-align: justify;
+  font-family: cambria;
+  width: 48%;
+  float: right;
+  margin-right: 0px;
+}
+
+.divbtnSocial{
+  margin-top: 1%;
+  margin-bottom: 0px;
+}
+
+/*começo imagens historia*/
+.primeiraIMG{
+  width: 47%;
+  margin-left: 630px;
+  margin-top: 20px;
+}
+
+.segundaIMG{
+    width: 47%;
+    margin-left: 10px;
+    margin-top: 80px;
+    margin-bottom: -18px;
+}
+
+.terceiraIMG{
+    width: 47%;
+    margin-left: 630px;
+    margin-top: -500px;
+}
+
+.quartaIMG{
+    width: 47%;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.quintaIMG{
+    width: 47%;
+    margin-left: 320px;
+}
+/*final imagens historia*/
+
+.geralHistoria{
+  margin-top: -120px;
+  color: #FFFFFF;
+  border-radius: 5px;
+}
+/* mapa */
+.geral12{
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid none;
+    margin-top: 0%;
+}
+.maps{
+    margin-left: 5px;
+    margin-right: 8px;
+    height: 250px;
+    margin-top: 3%;
+    width: 98.6%;
+    border-color: #000000;
+}
+.contato1{
+    margin-right: 5%;
+    margin-left: 6%;
+    margin-top: 5%;
+    height: 235px;
+    color: #FFFFFF;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 2px solid gray;
+}
+.divRespomcivo{
+  margin-top: -240px;
+  font-family: arial;
+  font-size: 14px;
+}
