@@ -37,7 +37,7 @@
 * html #wowslider-container1{ width:1280px }
 #wowslider-container1 .ws_images ul{
 	position:relative;
-	width: 100%; 
+	width: 10000%; 
 	height:100%;
 	left:0;
 	list-style:none;
@@ -49,7 +49,7 @@
 }
 #wowslider-container1 .ws_images ul li{
 	position: relative;
-	width:100%;
+	width:1%;
 	height:100%;
 	line-height:0; /*opera*/
 	overflow: hidden;
@@ -89,7 +89,7 @@
 	margin:0;
 }
 #wowslider-container1 .ws_images > div > img {
-	height:720px !important;
+	max-height:720px;
 }
 
 #wowslider-container1 .ws_images iframe {
